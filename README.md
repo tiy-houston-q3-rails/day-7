@@ -4,6 +4,8 @@ Day 7
 Install Stuff
 --------------
 
+More info about Pry [REPL Driven Development](http://www.confreaks.com/videos/2864-rubyconf2013-repl-driven-development-with-pry)
+
 Install pry (from terminal, run: )
 
 ```bash
