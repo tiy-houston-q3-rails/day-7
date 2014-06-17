@@ -1,6 +1,26 @@
 Day 7
 ====================================
 
+Install Stuff
+--------------
+
+Install pry (from terminal, run: )
+
+```bash
+gem install pry
+```
+
+Pry
+----------------
+to use pry:
+
+```ruby
+list.each do |item|
+  binding.pry
+  item.something
+end
+```
+
 Homework:
 
 * implement when you press r, it will move to the right
